@@ -2,5 +2,7 @@
 import Navbar from '../components/Navbar.vue';
 </script>
 <template>
-  <Navbar/>
+  <header class="has-background-white-ter">
+    <Navbar/>
+  </header>
 </template>
